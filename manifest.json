@@ -1,0 +1,22 @@
+{
+  "visualization": {
+    "id": "sinerg_eletrica_form_card",
+    "label": "Formulário de Atualização – Sinerg Elétrica",
+    "iconUrl": "https://i.imgur.com/qv1Xlgh.png",
+    "resourceUrl": "iframe.js"
+  },
+  "requiredFields": [],
+  "style": {
+    "height": {
+      "defaultValue": 350,
+      "modifiable": true
+    }
+  },
+  "options": {
+    "scriptUrl": {
+      "type": "TEXT",
+      "label": "URL do Apps Script",
+      "defaultValue": "https://script.google.com/macros/s/AKfycbzA8XRfL2TLvUaYOzJelFOg6Qx5RolSJgxu-WnIGKGtUbI5DL75xkA-fRL1NP-coS--/exec"
+    }
+  }
+}
